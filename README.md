@@ -7,4 +7,5 @@
 int main()
 {
   printf("This is a useful tutorial!");
+  return 0;
 }
