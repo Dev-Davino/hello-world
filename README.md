@@ -9,3 +9,5 @@ int main()
   printf("This is a useful tutorial!");
   return 0;
 }
+
+//https://guides.github.com/activities/hello-world/
